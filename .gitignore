@@ -12,6 +12,7 @@ bin
 .idea
 apache-tomcat-7.0.70
 out
+libraries
 .classpath
 .project
 *.ipr
@@ -29,6 +30,9 @@ out
 
 # Mac
 .DS_Store
+
+# Files
+context-datasources.xml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
